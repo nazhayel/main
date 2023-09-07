@@ -1,2 +1,2 @@
 # main
-repo 12345
+repo 123456
